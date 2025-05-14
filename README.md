@@ -20,4 +20,4 @@ Identificar padrões e prever variações em benefícios sociais ao longo do tem
 
 ## Fonte dos dados
 
-[IPEADATA](https://www.ipeadata.gov.br](http://www.ipeadata.gov.br/Default.aspx)
+[IPEADATA][(http://www.ipeadata.gov.br/Default.aspx)]
